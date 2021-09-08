@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-image: url(img/Frame\ 3.png);
+}
+
+
+.text li{
+    list-style: none;
+    font-size: 55px;
+    font-family: montserrat;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 300px;
+}
